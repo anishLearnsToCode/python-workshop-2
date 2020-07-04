@@ -4,6 +4,12 @@ Solutions to all sample problems on HackerRank under the
 [Python domain](https://www.hackerrank.com/domains/python) can be 
 looked up [here](https://github.com/anishLearnsToCode/hackerrank-python).
 
+<details>
+    <summary>Workshop Timings</summary>
+    Workshop Timings: 9:00 AM - 2:00 PM (9 - 14)
+    Break Timings: 11:00 AM - 12:00 AM (11 - 12)
+</details>
+
 Programming is a very hands process and is both an art as well as a science. We are
 engineers and are required to create efficient solutions but at the same time our programs should be 
 highly readable and flexible and all the other snappy terms which makes it an art as well.
