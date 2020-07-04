@@ -21,6 +21,8 @@ will be you sitting down (or standing) and writing code. No book or resource can
 So, what are you waiting for 😀😉 - try as many questions (below or otherwise) as you can.... 🐱‍👤    
 Happy Coding :octocat: 🐱‍💻 
 
+Get to know more about your instructor [here](https://www.linkedin.com/in/anishsachdeva1998/).
+
 ## Index
 | Domain | Important Links |
 |:---:|:---------------:|
@@ -38,6 +40,25 @@ Happy Coding :octocat: 🐱‍💻
 
 ## [Day 1](https://github.com/anishLearnsToCode/python-workshop-2/tree/master/day-1)
 ### Topics Covered
+- [Hello World! ⭐](day-1/hello-world.py)
+- [Print Function](day-1/print-func.py)
+- [Strings](day-1/strings.py)
+- [Integer Input](day-1/int-input.py)
+- [Floating Point Numbers (Precision Number Type)](day-1/floating-numbers.py)
+- [Combined Operators](day-1/combined-operator.py)
+- [Logical Operators](day-1/logical-operations.py)
+- [If Else](day-1/if-else.py)
+- [Even Odd Program using If-Else](day-1/even-odd.py)
+- [If-Else hackerRank Problem](day-1/py-if-else-hackerrank.py)
+- [While Loop](day-1/while-loop.py)
+- [Sum of N Natural Numbers](day-1/sum-n-natural-numbers.py)
+- [Sum of squares of first N Natural Numbers](day-1/sum-of-squares.py)
+- [Factorial (Loops)](day-1/factorial.py)
+- [For Loop](day-1/for-loop.py)
+- [Sum of N Natural Numbers](day-1/sum-n-natural-numbers-for.py)
+- [Loop Control Statements](day-1/loop-control-statements.py)
+- [Nested Loops](day-1/nested-loops.py)
+- [Lists](day-1/lists.py)
 
 ### Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
