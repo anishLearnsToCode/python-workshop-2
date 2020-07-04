@@ -5,7 +5,7 @@ Solutions to all sample problems on HackerRank under the
 looked up [here](https://github.com/anishLearnsToCode/hackerrank-python).
 
 <details>
-    <summary>Workshop Timings</summary>
+    <summary><b>Workshop Timings</b></summary>
     <p>Workshop Timings: 9:00 AM - 2:00 PM (9 - 14)</p>
     <p>Break Timings: 11:00 AM - 12:00 AM (11 - 12)</p>
 </details>
