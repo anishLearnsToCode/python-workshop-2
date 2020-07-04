@@ -6,8 +6,8 @@ looked up [here](https://github.com/anishLearnsToCode/hackerrank-python).
 
 <details>
     <summary><b>Workshop Timings</b></summary>
-    <p>Workshop Timings: 9:00 AM - 2:00 PM (9 - 14)</p>
-    <p>Break Timings: 11:00 AM - 12:00 AM (11 - 12)</p>
+    Workshop Timings: 9:00 AM - 2:00 PM (9 - 14) <br>
+    Break Timings: 11:00 AM - 12:00 AM (11 - 12)
 </details>
 
 Programming is a very hands process and is both an art as well as a science. We are
