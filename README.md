@@ -88,6 +88,17 @@ Get to know more about your instructor [here](https://www.linkedin.com/in/anishs
 ## [Day 2](https://github.com/anishLearnsToCode/python-workshop-2/tree/master/day-2)
 
 ### Topics Covered
+- [Iterating over List using For](day-2/list-for.py)
+- [Taking List Input](day-2/list-input.py)
+- [Map Functions](day-2/map-func.py)
+- [Tuples](day-2/tuples.py)
+- [Functions](day-2/functions.py)
+- [Generator Functions](day-2/generator-functions.py)
+- [Ternary If-Else Condition/Ternary Operator](day-2/ternary-operator.py)
+- [Inbuilt Functions](day-2/inbuilt-functions.py)
+- [Dictionary](day-2/dictionaries.py)
+- [Words In a Sentence](day-2/frequency.py)
+- [Packages](day-2/packages.py)
 
 ### Further Reading
 - [Math Module](https://docs.python.org/3/library/math.html)
